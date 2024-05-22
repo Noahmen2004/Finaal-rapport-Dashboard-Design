@@ -8,7 +8,8 @@
 *Datum 10/5/2024*
 
 <p>
-  <img src="Fotos verslag dashboard design/logo sunny.png" width="100
+  <img src="Fotos verslag dashboard design/logo sunny.png" width="200
+    
     " 
      height="auto" />
 
