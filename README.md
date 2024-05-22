@@ -93,9 +93,14 @@ Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is m
 - <ins>Concept Validatie en Prototyping:</ins> In de concept validatie fase begonnen we met het maken van prototypes om verschillende deelaspecten van ons ontwerp te testen bij gebruikers. Dit stelde ons in staat om te evalueren wat werkt en om op basis van feedback iteraties uit te voeren.
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+De doelstelling in deze “discovery” fase was ons onderdompelen in het thema. Dus zo veel mogelijk info verzamelen zodat we veel kennis hebben over het onderwerp om hieruit oplossingen voor het probleem te zoeken en vinden. Vervolgens was het doel om een duidelijk probleem vast te leggen bij onze doelgroep met betrekking tot car dashboards. Zodat we hieruit exact wisten wat de eisen en wensen waren waarmee wij bij elke stap van het verdere ontwerpproces rekening moesten houden.
+<p>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/goals-2-e1452027249379.png" width="49%"/>
+
+</p>
+
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
