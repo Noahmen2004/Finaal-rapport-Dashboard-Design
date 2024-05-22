@@ -65,10 +65,13 @@ https://youtu.be/4ao7_wawhSE
 Door de integratie van een HUD, voice control en een centraal control panel met gepolariseerde film als overlay tijdens het rijden, blijft de aandacht van de bestuurder op de weg gericht. Dit vermindert afleiding en verhoogt de veiligheid voor gezinnen tijdens het rijden
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Zoals al eerder vermeld is, luidt het probleem als volgt: ”Hoe kunnen we ervoor zorgen dat een auto dashboard veiliger wordt en dat er rekening gehouden wordt met de doelgroep die deze auto zal gebruiken.” Hierin vind je al 2 van de belangrijkste eisen terug, namelijk dat het dashboard zo veilig mogelijk moet zijn en dat het ontworpen wordt voor een gezin, zijnde de doelgroep.
 
+We gaan dus bij elke stap en keuze die we maken onze doelgroep moeten ondervragen en controleren of dit voor hen de beste oplossing is. Bij elke stap en keuze gaan we ook een check moeten doen of dit een veilige oplossing is voor het subprobleem/aspect.
+
+Uit de doelgroep volgen dan ook verschillende sub eisen/wensen. Een van deze is bijvoorbeeld dat de dashboard er goed moet uitzien zodat het een aantrekkelijk product is om te gebruiken. Nog een paar van deze sub eisen/wensen zijn een eenvoudige bediening, een minimalistisch design met enkel essentiële knoppen. Deze eisen en wensen komen allemaal uit een interview dat wij gedaan hebben met de doelgroep.
+
+Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is met het ontwerpen van nieuwe en innovatieve oplossingen voor interactieve producten en al veel bezig is geweest met onder andere automotive design, interactive design en mobility design (About | Granstudio, n.d.). Zij gebruiken digiphy om verschillende aspecten van het dashboard te testen en verwachten dat we een soortgelijke opstelling maken om ook verschillende aspecten te kunnen testen.
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
@@ -109,6 +112,23 @@ Definieer de belangrijkste designbeslissingen
 Max. 500 woorden
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+About | Granstudio. (n.d.). Granstudio. <br> &emsp; https://www.granstudio.com/about <br>
+What’s the best Car dashboards ever designed? (n.d.). Quora. <br> &emsp; https://www.quora.com/Whats-the-best-Car-dashboards-ever-designed <br>
+Pogue, D. (2018, September 13). Automobile dashboard technology is simply awful. Scientific American. <br> &emsp; https://www.scientificamerican.com/article/automobile-dashboard-technology-is-simply-awful/ <br>
+Kuijlen, C. (2023, October 4). Dashboards vs. Trashboards. SIG. <br> &emsp; https://www.softwareimprovementgroup.com/dashboards-vs-trashboards/ <br>
+Nws, V. (2021, March 11). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig.” vrtnws.be. <br> &emsp; https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/ <br>
+Techno Source. (2017, May 2). LG’s future display technology will blow you away [Video]. YouTube. <br> &emsp; https://www.youtube.com/watch?v=qIRjytgNuhM <br>
+Voice Control with Natural Language-Understanding Technology | Innovation |. (n.d.). <br> &emsp; https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/VC/ <br>
+Head-up display: technologie achter de voorruit | Carglass®. (n.d.). Glass. <br> &emsp; https://www.carglass.be/nl/autoruitschade/technologie-achter-de-voorruit/head-up-display#:~:text=Head%2Dup%20display%20is%20het,de%20autoruit%20maakt%20dit%20mogelijk
 
 ## Bijlagen
+Protocol develop 1: https://docs.google.com/document/d/1FXDdUVniM9Q_NI60XqDtdbyKrow0p1xeb_3EESoDwXw/edit <br>
+https://docs.google.com/document/d/1hT8LfAwm9J1SvEGHzndP_pVxkilZIYjv3LARCh_mzWw/edit
+Protocol develop 2: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit
+Protocol develop 3: https://docs.google.com/document/d/1sfkKEzGefGyymbCcsQPU5--OPLnl1MAa4-cfkQpwE7U/edit
+
+Verslag develop 1:
+Verslag develop 2:https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests 
+Verslag develop 3:https://github.com/Noahmen2004/Finaal-rapport-Dashboard-Design/blob/main/README.md
+
+Zie bijlagen [hier](car%20dashboard%20(G%20drive)/).
