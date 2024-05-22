@@ -123,12 +123,12 @@ Head-up display: technologie achter de voorruit | Carglass®. (n.d.). Glass. <br
 
 ## Bijlagen
 Protocol develop 1: https://docs.google.com/document/d/1FXDdUVniM9Q_NI60XqDtdbyKrow0p1xeb_3EESoDwXw/edit <br>
-https://docs.google.com/document/d/1hT8LfAwm9J1SvEGHzndP_pVxkilZIYjv3LARCh_mzWw/edit
-Protocol develop 2: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit
-Protocol develop 3: https://docs.google.com/document/d/1sfkKEzGefGyymbCcsQPU5--OPLnl1MAa4-cfkQpwE7U/edit
-
-Verslag develop 1:
-Verslag develop 2:https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests 
-Verslag develop 3:https://github.com/Noahmen2004/Finaal-rapport-Dashboard-Design/blob/main/README.md
-
+https://docs.google.com/document/d/1hT8LfAwm9J1SvEGHzndP_pVxkilZIYjv3LARCh_mzWw/edit<br>
+Protocol develop 2: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit<br>
+Protocol develop 3: https://docs.google.com/document/d/1sfkKEzGefGyymbCcsQPU5--OPLnl1MAa4-cfkQpwE7U/edit<br>
+<br>
+Verslag develop 1: <br>
+Verslag develop 2:https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests <br>
+Verslag develop 3:https://github.com/Noahmen2004/Finaal-rapport-Dashboard-Design/blob/main/README.md <br>
+<br>
 Zie bijlagen [hier](car%20dashboard%20(G%20drive)/).
