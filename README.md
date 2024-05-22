@@ -82,10 +82,15 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 </p>
 
 - <ins>Literatuuronderzoek:</ins> We begonnen met een grondige studie van bestaande literatuur om ons te verdiepen in het onderwerp.
+  <br>
 - <ins>Benchmarking:</ins> Vervolgens analyseerden we verschillende benchmarks, waarbij we de voor- en nadelen van bestaande technologieën in kaart brachten. Dit stelde ons in staat om te bepalen welke technologieën al beschikbaar en essentieel zijn.
+ <br>
 - <ins>Interviews en Focusgroep:</ins> We voerden interviews en organiseerden een focusgroep om de leefstijl en behoeften van onze doelgroep te begrijpen. Dit hielp ons inzicht te krijgen in hun eisen en wensen voor het ontwerp van een auto dashboard.
+  <br>
 - <ins>Probleemstelling en Wensen:</ins> Op basis van ons vooronderzoek stelden we een duidelijke probleemstelling en aanvullende wensen op. Dit gaf ons een helder beeld van de belangrijkste problemen die ons nieuwe auto dashboard moest oplossen.
+  <br>
 - <ins>Brainstorming en Conceptontwikkeling:</ins> We brainstormden over verschillende oplossingen, waarbij we ons onderzoek als leidraad gebruikten (zie bijlagen). We pitchten elk een oplossing en werkten vervolgens verder aan één geselecteerde concept.
+  <br>
 - <ins>Concept Validatie en Prototyping:</ins> In de concept validatie fase begonnen we met het maken van prototypes om verschillende deelaspecten van ons ontwerp te testen bij gebruikers. Dit stelde ons in staat om te evalueren wat werkt en om op basis van feedback iteraties uit te voeren.
 
 ## Discovery
