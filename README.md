@@ -1,9 +1,12 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+# Car Dashboard Design: Sunny
+> "Een gezinsvriendelijk dashboard dat maximale veiligheid en minimale afleiding biedt met een heads-up display en intuïtieve bediening.
+"
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Noah Menschaert; luca Poppe*
 
-Datum
+
+*Datum 10/5/2024*
+
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
