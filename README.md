@@ -75,6 +75,19 @@ Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is m
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
+<p>
+  <img src="Fotos verslag dashboard design/Dashboard design challenged - Frame 5.jpg" width="500" 
+     height="auto" />
+     
+</p>
+
+- <u>Literatuuronderzoek:<u/> We begonnen met een grondige studie van bestaande literatuur om ons te verdiepen in het onderwerp.
+- <u>Benchmarking:<u/> Vervolgens analyseerden we verschillende benchmarks, waarbij we de voor- en nadelen van bestaande technologieën in kaart brachten. Dit stelde ons in staat om te bepalen welke technologieën al beschikbaar en essentieel zijn.
+- <u>Interviews en Focusgroep:<u/> We voerden interviews en organiseerden een focusgroep om de leefstijl en behoeften van onze doelgroep te begrijpen. Dit hielp ons inzicht te krijgen in hun eisen en wensen voor het ontwerp van een auto dashboard.
+- <u>Probleemstelling en Wensen:<u/> Op basis van ons vooronderzoek stelden we een duidelijke probleemstelling en aanvullende wensen op. Dit gaf ons een helder beeld van de belangrijkste problemen die ons nieuwe auto dashboard moest oplossen.
+- <u>Brainstorming en Conceptontwikkeling:<u/> We brainstormden over verschillende oplossingen, waarbij we ons onderzoek als leidraad gebruikten (zie bijlagen). We pitchten elk een oplossing en werkten vervolgens verder aan één geselecteerde concept.
+- <u>Concept Validatie en Prototyping:<u/> In de concept validatie fase begonnen we met het maken van prototypes om verschillende deelaspecten van ons ontwerp te testen bij gebruikers. Dit stelde ons in staat om te evalueren wat werkt en om op basis van feedback iteraties uit te voeren.
+
 ## Discovery
 Max. 1000 woorden
 ### Doestellingen
