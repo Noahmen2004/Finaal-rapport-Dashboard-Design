@@ -184,4 +184,5 @@ Verslag develop 1: <br>
 Verslag develop 2:https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests <br>
 Verslag develop 3:https://github.com/Noahmen2004/Finaal-rapport-Dashboard-Design/blob/main/README.md <br>
 <br>
+Miroboard:https://miro.com/app/board/uXjVNbmYP_0=/<br>
 Zie bijlagen [hier](car%20dashboard%20(G%20drive)/).
