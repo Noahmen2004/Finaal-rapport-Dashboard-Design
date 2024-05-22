@@ -104,10 +104,10 @@ De doelstelling in deze “discovery” fase was ons onderdompelen in het thema.
 ### Materiaal & Methoden
 
 #### De gebruikte methoden waren:
-- Benchmarking
-- Interviews met de doelgroep
-- Focusgroep
-- Bronnenonderzoek
+- <span style="color: green"> Benchmarking </span>
+- <span style="color: blue"> Interviews met de doelgroep </span>
+- <span style="color: red"> Focusgroep </span>
+- <span style="color: yellow"> Bronnenonderzoek </span>
 
 #### Benchmarking
 We onderzochten verschillende auto's, zoals de Mazda RX-7, die bekend staat om zijn ergonomische dashboard. Een opvallend kenmerk is de schuine plaatsing van alle bedieningsoppervlakken richting de bestuurder, wat zorgt voor betere zichtbaarheid en toegankelijkheid van de bedieningselementen. Dit ontwerp wordt vaak vergeleken met een straaljagercockpit, wat de bestuurder een gevoel van volledige controle geeft.
