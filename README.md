@@ -101,15 +101,15 @@ De doelstelling in deze “discovery” fase was ons onderdompelen in het thema.
 
 </p>
 
-## Materiaal & Methoden
+### Materiaal & Methoden
 
-### De gebruikte methoden waren:
+#### De gebruikte methoden waren:
 - Benchmarking
 - Interviews met de doelgroep
 - Focusgroep
 - Bronnenonderzoek
 
-### Benchmarking
+#### Benchmarking
 We onderzochten verschillende auto's, zoals de Mazda RX-7, die bekend staat om zijn ergonomische dashboard. Een opvallend kenmerk is de schuine plaatsing van alle bedieningsoppervlakken richting de bestuurder, wat zorgt voor betere zichtbaarheid en toegankelijkheid van de bedieningselementen. Dit ontwerp wordt vaak vergeleken met een straaljagercockpit, wat de bestuurder een gevoel van volledige controle geeft.
 
 > "The first thing you will notice is the slant to every control surface in the vehicle. Everything is tilted towards the driver, hugging him/her and giving better visibility and access to anything needed for driving. When you sit in the driver’s seat there is no doubt in your mind who is controlling the vehicle. Many describe it as getting into a fighter jet and I believe that is accurate."  
@@ -127,13 +127,15 @@ De nadelen van een centraal touchscreen zijn:
 
 Andere benchmarks die we hebben onderzocht, zijn te vinden op ons Miroboard (zie bijlage).
 
-### Bronnenonderzoek
+#### Bronnenonderzoek
 We lazen samen ongeveer twintig bronnen en noteerden de essentie ervan in onze Miroboards (zie bijlage).
 
-### Interviews
+#### Interviews
 We interviewden mensen uit onze doelgroep om inzicht te krijgen in hun levensstijl en hun behoeften en wensen op het gebied van producten en autogebruik. Details van deze interviews zijn te vinden in de bijlagen.
 
-### Focusgroep
+#### Focusgroep
+We observeerden een gezin tijdens een autorit waarbij een van ons aanwezig was. Het gezin werd gevraagd zich te gedragen alsof het een normale rit was. Dit gaf ons de kans om het gedrag van een gezin onderling en hun interactie met de auto te observeren. Verdere details hierover zijn te vinden in de bijlagen.
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
