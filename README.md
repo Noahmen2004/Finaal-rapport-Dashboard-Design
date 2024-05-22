@@ -73,10 +73,9 @@ Uit de doelgroep volgen dan ook verschillende sub eisen/wensen. Een van deze is 
 
 Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is met het ontwerpen van nieuwe en innovatieve oplossingen voor interactieve producten en al veel bezig is geweest met onder andere automotive design, interactive design en mobility design (About | Granstudio, n.d.). Zij gebruiken digiphy om verschillende aspecten van het dashboard te testen en verwachten dat we een soortgelijke opstelling maken om ook verschillende aspecten te kunnen testen.
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 <p>
-  <img src="Fotos verslag dashboard design/Dashboard design challenged - Frame 5.jpg" width="500" 
+  <img src="Fotos verslag dashboard design/Dashboard design challenged - Frame 5.jpg" width="800" 
      height="auto" />
      
 </p>
