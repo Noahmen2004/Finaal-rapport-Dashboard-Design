@@ -2,10 +2,16 @@
 > "Een gezinsvriendelijk dashboard dat maximale veiligheid en minimale afleiding biedt met een heads-up display en intuïtieve bediening.
 "
 
-*Projectteam: Noah Menschaert; luca Poppe*
+*Projectteam: luca Poppe; Noah Menschaert;*
 
 
 *Datum 10/5/2024*
+
+<p>
+  <img src="Fotos verslag dashboard design/logo sunny.png" width="1200" 
+     height="auto" />
+
+</p>
 
 
 ## Samenvatting
