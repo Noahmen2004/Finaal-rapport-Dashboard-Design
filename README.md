@@ -43,7 +43,7 @@ https://youtu.be/4ao7_wawhSE
 > Voice activation
 - <u>Centraal Control Panel:<u/> Een touchscreen voor het invoeren van de GPS-bestemming. Dit paneel heeft een gepolariseerde film zodra de auto begint te rijden wordt deze over het scherm getrokken, hierdoor kan de bestuurder niet meer afgeleid worden tijdens het rijden. Dit omdat de film ervoor zorgt dat enkel de medepassagier nog naar het scherm kan kijken (zie onderstaande foto).
   
-<p>
+  <p>
   <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143533.png" width="500" 
      height="auto" />
 
@@ -53,7 +53,7 @@ https://youtu.be/4ao7_wawhSE
   
 - <u>Draaiknoppen:<u/> Een knop met een intuitief gebruik dat blindelings bestuurd kan worden om de temperatuur, volume etc. kan besturen (zie onderstaande foto). 
 
-<p>
+  <p>
   <img src="Fotos verslag dashboard design/Screenshot 2024-05-22 121317.png" width="500" 
      height="auto" />
      
