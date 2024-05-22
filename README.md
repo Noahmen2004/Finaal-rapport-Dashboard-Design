@@ -23,7 +23,7 @@
 #### Wat is onze oplossing?
 Onze oplossing bestaat uit vier hoofdcomponenten:
 
-- <u>Heads-Up Display (HUD):</u> De GPS-route wordt over het hele raam geprojecteerd via heldere en duidelijk zichtbare blauwe pijlen op de straat geprojecteerd. Dit zorgt ervoor dat de bestuurder zijn aandacht en zicht niet van de rijbaan hoeft af te halen om te controleren waar hij moet afslaan (zie onderstaande foto).
+- <ins>Heads-Up Display (HUD):</ins> De GPS-route wordt over het hele raam geprojecteerd via heldere en duidelijk zichtbare blauwe pijlen op de straat geprojecteerd. Dit zorgt ervoor dat de bestuurder zijn aandacht en zicht niet van de rijbaan hoeft af te halen om te controleren waar hij moet afslaan (zie onderstaande foto).
   <p>
   <img src="Fotos verslag dashboard design/Screenshot 2024-05-22 171529.png" width="500" 
      height="auto" />
@@ -31,7 +31,7 @@ Onze oplossing bestaat uit vier hoofdcomponenten:
 </p>
 
 > HUD
-- <u>Voice Control:</u> Alle functies worden voornamelijk bestuurd via spraakcommando's, vergelijkbaar met Google Assistent. Dit vermindert afleiding en zorgt voor een veiligere interactie met de auto.
+- <ins>Voice Control:</ins> Alle functies worden voornamelijk bestuurd via spraakcommando's, vergelijkbaar met Google Assistent. Dit vermindert afleiding en zorgt voor een veiligere interactie met de auto.
   
   <p>
   <img src="Fotos verslag dashboard design/1683798915545.jpg" width="500" 
@@ -51,7 +51,7 @@ https://youtu.be/4ao7_wawhSE
 
 > Polaristiefilm interface<br>
   
-- <u>Draaiknoppen:</u> Een knop met een intuitief gebruik dat blindelings bestuurd kan worden om de temperatuur, volume etc. kan besturen (zie onderstaande foto). 
+- <ins>Draaiknoppen:</ins> Een knop met een intuitief gebruik dat blindelings bestuurd kan worden om de temperatuur, volume etc. kan besturen (zie onderstaande foto). 
 
   <p>
   <img src="Fotos verslag dashboard design/Screenshot 2024-05-22 121317.png" width="500" 
@@ -81,12 +81,12 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
      
 </p>
 
-- <u>Literatuuronderzoek:</u> We begonnen met een grondige studie van bestaande literatuur om ons te verdiepen in het onderwerp.
-- <u>Benchmarking:</u> Vervolgens analyseerden we verschillende benchmarks, waarbij we de voor- en nadelen van bestaande technologieën in kaart brachten. Dit stelde ons in staat om te bepalen welke technologieën al beschikbaar en essentieel zijn.
-- <u>Interviews en Focusgroep:</u> We voerden interviews en organiseerden een focusgroep om de leefstijl en behoeften van onze doelgroep te begrijpen. Dit hielp ons inzicht te krijgen in hun eisen en wensen voor het ontwerp van een auto dashboard.
-- <u>Probleemstelling en Wensen:</u> Op basis van ons vooronderzoek stelden we een duidelijke probleemstelling en aanvullende wensen op. Dit gaf ons een helder beeld van de belangrijkste problemen die ons nieuwe auto dashboard moest oplossen.
-- <u>Brainstorming en Conceptontwikkeling:</u> We brainstormden over verschillende oplossingen, waarbij we ons onderzoek als leidraad gebruikten (zie bijlagen). We pitchten elk een oplossing en werkten vervolgens verder aan één geselecteerde concept.
-- <u>Concept Validatie en Prototyping:</u> In de concept validatie fase begonnen we met het maken van prototypes om verschillende deelaspecten van ons ontwerp te testen bij gebruikers. Dit stelde ons in staat om te evalueren wat werkt en om op basis van feedback iteraties uit te voeren.
+- <ins>Literatuuronderzoek:</ins> We begonnen met een grondige studie van bestaande literatuur om ons te verdiepen in het onderwerp.
+- <ins>Benchmarking:</ins> Vervolgens analyseerden we verschillende benchmarks, waarbij we de voor- en nadelen van bestaande technologieën in kaart brachten. Dit stelde ons in staat om te bepalen welke technologieën al beschikbaar en essentieel zijn.
+- <ins>Interviews en Focusgroep:</ins> We voerden interviews en organiseerden een focusgroep om de leefstijl en behoeften van onze doelgroep te begrijpen. Dit hielp ons inzicht te krijgen in hun eisen en wensen voor het ontwerp van een auto dashboard.
+- <ins>Probleemstelling en Wensen:</ins> Op basis van ons vooronderzoek stelden we een duidelijke probleemstelling en aanvullende wensen op. Dit gaf ons een helder beeld van de belangrijkste problemen die ons nieuwe auto dashboard moest oplossen.
+- <ins>Brainstorming en Conceptontwikkeling:</ins> We brainstormden over verschillende oplossingen, waarbij we ons onderzoek als leidraad gebruikten (zie bijlagen). We pitchten elk een oplossing en werkten vervolgens verder aan één geselecteerde concept.
+- <ins>Concept Validatie en Prototyping:</ins> In de concept validatie fase begonnen we met het maken van prototypes om verschillende deelaspecten van ons ontwerp te testen bij gebruikers. Dit stelde ons in staat om te evalueren wat werkt en om op basis van feedback iteraties uit te voeren.
 
 ## Discovery
 Max. 1000 woorden
