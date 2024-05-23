@@ -193,7 +193,107 @@ De belangrijkste eisen van onze doelgroep zijn veiligheid, eenvoud en een minima
 + Plaats centrale bedieningselementen voor gemakkelijke toegang door zowel chauffeur als passagier
   
 ## Definition
-Max. 1000 woorden
+### <ins> Doestellingen </ins>
+De definitiefase bestaat uit twee delen, ideeëngeneratie en testfase. Tijdens ideeëngeneratie worden concepten bedacht die voldoen aan de eerder vastgelegde noden en wensen. Uit deze concepten wordt een selectie gemaakt die gerealiseerd wordt in een prototype. Door middel van testen worden problemen met de prototypes blootgelegd. Aan het eind van de definitiefase hebben we duidelijke concepten en een idee van hoe die te verbeteren zijn.
+
+### <ins> Materiaal & methoden </ins>
+
+#### Ideeëngeneratie Proces
+We begonnen met divergentie, waarbij we zoveel mogelijk ideeën formuleerden zonder haalbaarheid te overwegen, gebruikmakend van de Lotus Blossom-methode. Dit verdeelde de design challenge in subcategorieën om ideeën rond te genereren.
+
+In de exploratiefase evalueerden we elk idee individueel met de COCD-methode en succescriteria, zoals haalbaarheid, innovatie, veiligheid en minimale afleiding.
+
+In de convergentiefase selecteerden we het beste concept, een combinatie van de meest effectieve ideeën. Dit concept werd vervolgens geprototyped en getest.
+De vier belangrijkste subcategorieën voor ons probleem zijn:
+
+#### Conceptvorming
+
+##### De vier belangrijkste subcategorieën voor ons probleem zijn:
++ Informatieweergave
++ Bedieningsmethoden
++ Afleiding preventie & - detectie
++ Gevolgen preventie
+  
+##### Informatieweergave
+**Opties:**
+
+- HUD (Head-Up Display)
+- Geaugmenteerde realiteit
+- Virtuele realiteit
+  
+**Analyse:**
+
+Virtuele realiteit: Minst veilig vanwege het gebruik van een bril die het zicht blokkeert bij falen.
+Geaugmenteerde realiteit: Beter alternatief, maar vereist vaak draagbare apparatuur (zoals een bril).
+**Oplossing:**
+
+HUD gecombineerd met geaugmenteerde realiteit over de hele voorruit, zodat de bestuurder zijn ogen op de weg kan houden.
+
+##### Bedieningsmethoden
+**Opties:**
+
++ Fysieke knoppen
++ Automatische bediening
++ Stembediening
++ Handbewegingen
++ Touchscreen
++ Touchpad
+  
+**Analyse:**
+
+- Automatische bediening: Elimineert afleiding volledig, maar is momenteel niet realiseerbaar.
+Stembediening: Tweede beste optie en eerder besproken in de discovery fase.
+- Fysieke knoppen: Kunnen bediend worden zonder afleiding van de weg.
+- Touchscreen: Neemt weinig ruimte in beslag, maar kan afleiden en vereist meer handelingen.
+  
+**Oplossing:**
+
+Stembediening voor alle functies.
+Fysieke knoppen voor essentiële functies tijdens het rijden.
+Touchscreen voor niet-essentiële functies, beschikbaar tijdens stilstand van auto.
+
+##### Afleiding Preventie
+**Opties:**
+
++ Eye tracking
++ Reactiesnelheid detectie
++ Bedieningsrestrictie
++ Minimale informatieweergave
++ Goede leesbaarheid van informatie
+  
+**Oplossing:**
+
+Bedieningsrestrictie en minimale weergave van informatie zijn het belangrijkst.
+
+##### Gevolgen Preventie
+**Opties:**
+
++ Adaptieve cruise control
++ Automatische rem
++ Lane-assist
+  
+**Oplossing:**
+Deze programma’s zijn al goed ontwikkeld en worden daarom niet verder besproken.
+
+##### Gecombineerd Concept
+**Ons concept combineert:**
+
+- Informatieweergave: HUD over de hele voorruit.
+- Bediening: Stembediening voor alle functies, fysieke knoppen voor essentiële functies tijdens het rijden, en een verdwijnend touchscreen voor niet-essentiële functies.
+- Afleiding Preventie: Het touchscreen verdwijnt tijdens het rijden als restrictie op bediening. Het HUD toont alleen navigatie, snelheidslimieten en waarschuwingen.
+
+#### Concept testing
+
+
+### <ins> Resultaten </ins>
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+### <ins> Conclusies & implicaties </ins>
+Definieer de belangrijkste designbeslissingen
+
+
+
+## Development
+
 ### <ins> Doestellingen </ins>
 Wat wilde je bereiken?
 ### <ins> Materiaal & methoden </ins>
@@ -202,17 +302,6 @@ Hoe onderzocht je dit? Wees volledig.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### <ins> Conclusies & implicaties </ins>
 Definieer de belangrijkste designbeslissingen
-
-## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
 
 ## Kritische reflectie
 Max. 500 woorden
