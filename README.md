@@ -166,11 +166,32 @@ De belangrijkste eisen van onze doelgroep zijn veiligheid, eenvoud en een minima
 <p>
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20persona%20(1).jpg" width="49%"/>
 </p>
+
 > Persona
 
 ### <ins> Conclusies & implicaties </ins>
-Definieer de belangrijkste designbeslissingen
 
+#### Veiligheid en Gebruiksvriendelijkheid:
+
++ Knoppen: Essentieel voor kritieke functies vanwege tactiele feedback en eenvoudige bediening.
++ Displays: Moeten minimalistisch en intuïtief zijn om afleiding te minimaliseren.
+  
+#### Innovatieve Technologieën:
+
++ Voice Control: Veilige bediening zonder afleiding.
++ Heads-Up Display (HUD): Navigatie direct op de voorruit voor betere focus op de weg.
+  
+#### Gebruikersgedrag en Behoeften:
+
++ Teamwerk: Passagiers ondersteunen de chauffeur tijdens het rijden.
++ Veiligheidsfuncties: Belangrijk voor de doelgroep, zoals een noodknop en eenvoudige bedieningselementen.
+
+#### Ontwerpimplicaties:
+
++ Combineer tactiele knoppen met een minimalistisch display.
++Integreer voice control en HUD om afleiding te verminderen.
++ Plaats centrale bedieningselementen voor gemakkelijke toegang door zowel chauffeur als passagier
+  
 ## Definition
 Max. 1000 woorden
 ### <ins> Doestellingen </ins>
