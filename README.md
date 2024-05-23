@@ -433,9 +433,9 @@ Door middel van conceptschetsen en brainstorming hebben we drie nieuwe systemen 
 
 ### Tests van concepten:
 
-#### 2. Concept test met gebruiker:
+#### 1. Concept test met gebruiker:
 
-#### 1. Expert tests
+#### 2. Expert tests
 
 In deze concepttest werden de drie dynamische touchscreen systemen getest op experts. 
 
@@ -500,8 +500,70 @@ Uit de resultaten volgt dat het gepolariseerd scherm de beste is met deze kennis
 Via de Hiërarchische taakanalyse hebben we bekeken welke interacties nog verbeterd kunnen worden ten op zichte van het normaal gebruik van een auto deze hebben we dan ook in onze simulatie test gestoken.
 
 #### Concept test finaal prototype
+##### Onderzoeksvragen:
+- Wat zijn de plus- en minpunten van elk systeem?
+- Zijn er effectieve pluspunten op het vlak van veiligheid?
+  
+##### Methode:
+**Interviews met Chauffeur en Passagier:**
+Directe interactie en feedback van gebruikers.
+Doel: Begrijpen van gebruikservaringen en voorkeuren.
+Gebruikt om inzicht te krijgen in persoonlijke ervaringen en meningen over de prototypes.
 
+**Concept Testing in een Simulatieomgeving:**
 
+Gebruik van een gesimuleerde rijomgeving om te testen onder verschillende omstandigheden (stilstaand en rijdend).
+Doel: Evalueren van de functionaliteit en gebruiksvriendelijkheid van de prototypes in een gecontroleerde maar realistische setting.
+
+##### Testprocedure:
+De testprocedure bestond uit de volgende stappen:
+
+- **1. Kwalificatie en Inleiding:**
+- **2. Simulatie van de Oplossing:**
+Voor elk prototype (draaiend scherm, afgedekt scherm, verschuivend scherm) werden twee fases getest:
+- Stilstaand: Uitvoeren van specifieke opdrachten zoals het plannen van een route en het aanpassen van de temperatuur.
+- Rijdend: Uitvoeren van dezelfde opdrachten waarbij het systeem de chauffeur verhindert om het touchscreen te gebruiken dus via voice activation of intuitieve knoppen.
+
+##### Apparatuur en Setup:
+- Gaspedalen: Verbonden via Makey Makey en keyboard inputs, met een veer voor pedaalnabotsting.
+
+<p>
+  <img src="Fotos verslag dashboard design/IMG_20240513_232336434.jpg" width="500" 
+     height="auto" />
+
+</p>
+  
+- Stuur: Gemaakt van karton, verbonden met een PS4 controller via een 3D print. De rotatiebeweging wordt omgezet naar een translatiebeweging voor joystickbesturing.
+
+<p>
+  <img src="Fotos verslag dashboard design/stuur.png" width="500" 
+     height="auto" />
+
+</p>
+  
+- Rotatieknoppen: 3D geprinte knoppen met klik, voor temperatuur- en volumebesturing.
+
+<p>
+  <img src="Fotos verslag dashboard design/Screenshot 2024-05-22 121317.png" width="500" 
+     height="auto" />
+
+</p>
+  
+- Voice Activation: Wizard of Oz testing van voice activation.
+
+<p>
+  <img src="Fotos verslag dashboard design/voice activation.jpg" width="500" 
+     height="auto" />
+
+</p>
+
+- Gepolariseerd scherm prototype via afdekking van het scherm.
+
+<p>
+  <img src="Fotos verslag dashboard design/440997729_960744078905080_5112918460192195687_n.jpg" width="500" 
+     height="auto" />
+
+</p>
 ### <ins> Resultaten </ins>
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### <ins> Conclusies & implicaties </ins>
