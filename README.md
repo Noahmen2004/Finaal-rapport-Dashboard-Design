@@ -574,10 +574,15 @@ Voor extra info hierover bekijk protocol develop 3 in bijlage.
 ### <ins> Resultaten </ins>
 #### Antropometrische en ergonomische tests://luca
 
+
+> Voor extra info hierover bekijk verslag develop 1 in bijlage.
+
 #### Expert tests:
 Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze het eenvoudigst en meest intuïtief is en het meeest betrouwbaar is er is hier het minst kans om een fout te maken. De polarisatie film interface maakt het heel moeilijk voor de chauffeur om toch nog naar het scherm te kijken. De schuivende interface wordt gezien als een beter alternatief dan het draaiende scherm vanwege de verminderde afleiding voor de bestuurder. Er zijn zorgen over de zichtbaarheid en documentatie bij de schuivende interface en suggesties voor foutpreventie bij alle prototypes. 
 
 Er werd als tip gegeven dat er error prevention mag zijn door eventueel een melding te geven als je toch naar het centraal touchscreen probeert te kijken.
+
+> Voor extra info hierover bekijk verslag develop 2 in bijlage.
 
 #### Concept test finaal prototype:
 **Pluspunten:**
@@ -597,10 +602,13 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 + Indicatielabels: Visuele aanwijzingen en labels voor draaiknoppen voorzien.
 + Pijl Navigatie Testen: Onderzoeken of een eenvoudige pijlindicatie op de HUD net zo effectief is als de huidige navigatielijnen.
 
+> Voor extra info hierover bekijk verslag develop 2 in bijlage.
+
 ### <ins> Conclusies & implicaties </ins>
 
 #### Antropometrische en ergonomische tests//luca
 
+> Voor extra info hierover bekijk verslag develop 1 in bijlage.
 
 #### Expert tests:
 #### Designrequirements
@@ -611,6 +619,8 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 - **Keuze van Interface Type:** De polarisatie-interface wordt aanbevolen vanwege de eenvoud en intuïtiviteit.
 - **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
 - **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
+
+> Voor extra info hierover bekijk verslag develop 2 in bijlage.
 
 #### Concept test finaal prototype:
 
@@ -637,6 +647,8 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 - **Google Home en Spotify integratie.**
 - **Eenvoudige Temperatuur- en Volume-aanpassingen via draaiknoppen.**
 
+> Voor extra info hierover bekijk verslag develop 3 in bijlage.
+
 ## Kritische reflectie//luca
 Max. 500 woorden
 
@@ -656,7 +668,7 @@ https://docs.google.com/document/d/1hT8LfAwm9J1SvEGHzndP_pVxkilZIYjv3LARCh_mzWw/
 Protocol develop 2: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit<br>
 Protocol develop 3: https://docs.google.com/document/d/1sfkKEzGefGyymbCcsQPU5--OPLnl1MAa4-cfkQpwE7U/edit<br>
 <br>
-Verslag develop 1: <br>
+Verslag develop 1: //luca<br>
 Verslag develop 2:https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests <br>
 Verslag develop 3:https://github.com/Noahmen2004/Finaal-rapport-Dashboard-Design/blob/main/README.md <br>
 <br>
