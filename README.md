@@ -389,10 +389,17 @@ In het tweede semester wilden we verder gaan met de ontwikkeling van ons concept
 - Concept herzien: Het concept aanpassen om beter rekening te houden met de medepassagier.
 - Prototypes ontwikkelen: Meer prototypes bouwen en testen.
 - Ergonomische en antropometrische testen: Testen uitvoeren om de perfecte afmetingen en plaatsing van componenten te bepalen.
+  
 We hebben daarom eerst gebrainstormd om het concept aan te passen en vervolgens ergonomische en antropometrische testen gepland om de ideale maten te vinden.
 
 ### <ins> Materiaal & methoden </ins>
-Hoe onderzocht je dit? Wees volledig.
+Aan de hand van drie deelopdrachten hebben we verschillende tests gedaan om onze doelen te bereikken.
+
+#### Nieuw concept
+Doormiddel van conceptsketching en brainstorming zijn we tot drie nieuwe systemen van het centraal touchscreen gekomen die de medepassagier de mogelijkheid geven om het toch nog te kunnen bedienen ook al kan de chauffeur het niet zien. 
+
+
+
 ### <ins> Resultaten </ins>
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### <ins> Conclusies & implicaties </ins>
