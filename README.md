@@ -382,7 +382,15 @@ De testen hebben waardevolle inzichten opgeleverd. Voor het on-roadnavigatiesyst
 ## Development
 
 ### <ins> Doestellingen </ins>
-Wat wilde je bereiken?
+In het tweede semester wilden we verder gaan met de ontwikkeling van ons concept door meer prototypes te bouwen en verschillende technieken te testen. Uit de feedback en conclusies van het eerste semester bleek echter dat we onvoldoende rekening hadden gehouden met de rol van de medepassagier tijdens het rijden. De medepassagier biedt namelijk veel ondersteuning en zou daarom het centrale touchscreen moeten kunnen bedienen.
+
+<ins>Onze doelstellingen waren:</ins>
+
+- Concept herzien: Het concept aanpassen om beter rekening te houden met de medepassagier.
+- Prototypes ontwikkelen: Meer prototypes bouwen en testen.
+- Ergonomische en antropometrische testen: Testen uitvoeren om de perfecte afmetingen en plaatsing van componenten te bepalen.
+We hebben daarom eerst gebrainstormd om het concept aan te passen en vervolgens ergonomische en antropometrische testen gepland om de ideale maten te vinden.
+
 ### <ins> Materiaal & methoden </ins>
 Hoe onderzocht je dit? Wees volledig.
 ### <ins> Resultaten </ins>
