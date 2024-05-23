@@ -431,11 +431,11 @@ Door middel van conceptschetsen en brainstorming hebben we drie nieuwe systemen 
 
 </p>
 
-### Tests van concepten
+### Tests van concepten:
 
-#### Concept test met gebruiker
+#### 2. Concept test met gebruiker:
 
-#### Expert tests
+#### 1. Expert tests
 
 In deze concepttest werden de drie dynamische touchscreen systemen getest op experts. 
 
@@ -486,10 +486,10 @@ Gebruikers gaven direct feedback over de gebruiksvriendelijkheid en moeilijkhede
 
 </p>
 
-#### Geoptimaliseerd ontwerp
+### Geoptimaliseerd ontwerp:
 Uit de resultaten volgt dat het gepolariseerd scherm de beste is met deze kennis zijn we dan beginnen werken aan een finaal prototype wat een grote simulatie van al onze concepten moest omvatten.
 
-##### Hiërarchische taakanalyse
+#### Hiërarchische taakanalyse
 
 <p>
   <img src="Fotos verslag dashboard design/Screenshot 2024-05-22 104533.png" width="1200" 
@@ -499,7 +499,7 @@ Uit de resultaten volgt dat het gepolariseerd scherm de beste is met deze kennis
 
 Via de Hiërarchische taakanalyse hebben we bekeken welke interacties nog verbeterd kunnen worden ten op zichte van het normaal gebruik van een auto deze hebben we dan ook in onze simulatie test gestoken.
 
-##### Concept test finaal prototype
+#### Concept test finaal prototype
 
 
 ### <ins> Resultaten </ins>
