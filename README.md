@@ -431,9 +431,12 @@ Door middel van conceptschetsen en brainstorming hebben we drie nieuwe systemen 
 
 </p>
 
+### Antropometrische en ergonomische tests://luca
+
+
 ### Tests van concepten:
 
-#### 1. Concept test met gebruiker:
+#### 1. Concept test met gebruiker://luca
 
 #### 2. Expert tests
 
@@ -569,6 +572,7 @@ Voor elk prototype (draaiend scherm, afgedekt scherm, verschuivend scherm) werde
 Voor extra info hierover bekijk protocol develop 3 in bijlage.
 
 ### <ins> Resultaten </ins>
+#### Antropometrische en ergonomische tests://luca
 
 #### Expert tests:
 Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze het eenvoudigst en meest intuïtief is en het meeest betrouwbaar is er is hier het minst kans om een fout te maken. De polarisatie film interface maakt het heel moeilijk voor de chauffeur om toch nog naar het scherm te kijken. De schuivende interface wordt gezien als een beter alternatief dan het draaiende scherm vanwege de verminderde afleiding voor de bestuurder. Er zijn zorgen over de zichtbaarheid en documentatie bij de schuivende interface en suggesties voor foutpreventie bij alle prototypes. 
@@ -595,24 +599,27 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 
 ### <ins> Conclusies & implicaties </ins>
 
+#### Antropometrische en ergonomische tests//luca
+
+
 #### Expert tests:
-##### Designrequirements
+#### Designrequirements
 - **Minimalistisch Design:** Houd de interface strak en overzichtelijk om afleiding te minimaliseren.
 - **Error Prevention:** Voorzie meldingen als de bestuurder toch probeert naar het centraal touchscreen te kijken.
 
-##### Ontwerpbeslissingen
+#### Ontwerpbeslissingen
 - **Keuze van Interface Type:** De polarisatie-interface wordt aanbevolen vanwege de eenvoud en intuïtiviteit.
 - **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
 - **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
 
 #### Concept test finaal prototype:
 
-##### Designrequirements
+#### Designrequirements
 - **HUD met Duidelijke Navigatielijnen en Waarschuwingen**
 - **Intuïtief Bedienbare Draaiknoppen**
 - **Gepolariseerd Centraal Scherm met Alarm Signaal**
 
-##### Ontwerpbeslissingen
+#### Ontwerpbeslissingen
 
 <ins> **HUD (Heads-Up Display):** </ins>
 - **Blauwe Navigatielijnen** voor duidelijke begeleiding.
@@ -630,7 +637,7 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 - **Google Home en Spotify integratie.**
 - **Eenvoudige Temperatuur- en Volume-aanpassingen via draaiknoppen.**
 
-## Kritische reflectie
+## Kritische reflectie//luca
 Max. 500 woorden
 
 ## Bronnen
