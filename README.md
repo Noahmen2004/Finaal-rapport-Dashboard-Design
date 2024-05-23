@@ -486,6 +486,22 @@ Gebruikers gaven direct feedback over de gebruiksvriendelijkheid en moeilijkhede
 
 </p>
 
+#### Geoptimaliseerd ontwerp
+Uit de resultaten volgt dat het gepolariseerd scherm de beste is met deze kennis zijn we dan beginnen werken aan een finaal prototype wat een grote simulatie van al onze concepten moest omvatten.
+
+##### Hiërarchische taakanalyse
+
+<p>
+  <img src="Fotos verslag dashboard design/Screenshot 2024-05-22 104533.png" width="1200" 
+     height="auto" />
+
+</p>
+
+Via de Hiërarchische taakanalyse hebben we bekeken welke interacties nog verbeterd kunnen worden ten op zichte van het normaal gebruik van een auto deze hebben we dan ook in onze simulatie test gestoken.
+
+##### Concept test finaal prototype
+
+
 ### <ins> Resultaten </ins>
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### <ins> Conclusies & implicaties </ins>
