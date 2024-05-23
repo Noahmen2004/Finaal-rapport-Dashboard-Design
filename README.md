@@ -575,8 +575,23 @@ Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze 
 
 Er werd als tip gegeven dat er error prevention mag zijn door eventueel een melding te geven als je toch naar het centraal touchscreen probeert te kijken.
 
-### Concept test finaal prototype:
+#### Concept test finaal prototype:
+**Pluspunten:**
 
++ Duidelijke Navigatie via HUD: Biedt heldere aanwijzingen en helpt de bestuurder de blik op de weg te houden.
++ Eenvoudig Gebruik van Draaiknoppen: Intuïtieve bedieningselementen verminderen afleiding.
++ Verminderde Stress: Heldere aanwijzingen dragen bij aan minder stress voor de bestuurder.
+  
+**Minpunten:**
++ Verkeerslichten in Simulatie: Simulatie geeft niet goed de realiteit weer verkeerslichten vallen niet op.
++ Onvoldoende Indicaties voor Draaiknoppen: Gebrek aan duidelijke labels en signalen voor ongewenst gedrag.
+
+**Aanbevelingen:**
+
++ Reële Testomstandigheden: Verdere tests in echte rijomstandigheden om de effectiviteit en veiligheid te valideren.
++ Waarschuwingen en Signalen: Duidelijke waarschuwingen en alarmsignalen implementeren voor als er dichtbij een ongeval gebeurt bv.
++ Indicatielabels: Visuele aanwijzingen en labels voor draaiknoppen voorzien.
++ Pijl Navigatie Testen: Onderzoeken of een eenvoudige pijlindicatie op de HUD net zo effectief is als de huidige navigatielijnen.
 
 ### <ins> Conclusies & implicaties </ins>
 
@@ -590,6 +605,30 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 - **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
 - **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
 
+#### Concept test finaal prototype:
+
+##### Designrequirements
+- **HUD met Duidelijke Navigatielijnen en Waarschuwingen**
+- **Intuïtief Bedienbare Draaiknoppen**
+- **Gepolariseerd Centraal Scherm met Alarm Signaal**
+
+##### Ontwerpbeslissingen
+
+<ins> **HUD (Heads-Up Display):** </ins>
+- **Blauwe Navigatielijnen** voor duidelijke begeleiding.
+- **Waarschuwingspictogrammen** voor gevaren en afstandsindicaties.
+
+<ins> **Draaiknoppen**: </ins> 
+- **Blindelings Bedienbaar** door texturen of vormverschillen.
+- **Duidelijke Labels** voor functie-indicatie.
+
+<ins> **Centrale Scherm:** </ins>
+- **Polarisatie** om zicht voor de bestuurder te beperken.
+- **Alarm Signaal** voor ongewenst gebruik tijdens het rijden.
+
+<ins> **Verhoogde Interactie:** </ins>
+- **Google Home en Spotify integratie.**
+- **Eenvoudige Temperatuur- en Volume-aanpassingen via draaiknoppen.**
 
 ## Kritische reflectie
 Max. 500 woorden
