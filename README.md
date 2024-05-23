@@ -396,9 +396,40 @@ We hebben daarom eerst gebrainstormd om het concept aan te passen en vervolgens 
 Aan de hand van drie deelopdrachten hebben we verschillende tests gedaan om onze doelen te bereikken.
 
 #### Nieuw concept
-Doormiddel van conceptsketching en brainstorming zijn we tot drie nieuwe systemen van het centraal touchscreen gekomen die de medepassagier de mogelijkheid geven om het toch nog te kunnen bedienen ook al kan de chauffeur het niet zien. 
+Door middel van conceptschetsen en brainstorming hebben we drie nieuwe systemen voor het centrale touchscreen bedacht. Deze systemen stellen de medepassagier in staat het scherm te bedienen, zelfs wanneer de chauffeur het niet kan zien. Dus tijdens het rijden kan de chauffeur het scherm niet meer zien en er dus niet door afgeleid worden maar de medpassagier wel. De concepten blijven hetzelfde hoofddoel hebben minder afleidng voor de chauffeur.
 
+1. **Polariserende Interface**:
+   - **Beschrijving**: Bij deze interface wordt een polariserende film over het scherm gelegd zodra de auto in beweging is, waardoor de chauffeur het scherm niet meer kan zien maar de medepassagier wel.
+   - **Voordeel**: Eenvoudig en intuïtief; voorkomt afleiding voor de bestuurder.
+   - **Nadeel**: Zichtbaarheid van het scherm kan voor passagiers ook beïnvloed worden bij bepaalde lichtomstandigheden.
+  
+ <p>
+  <img src="Fotos verslag dashboard design/gepolariseerd scherm.jpg" width="500" 
+     height="auto" />
 
+</p>
+
+2. **Draaiende Interface**:
+   - **Beschrijving**: Het scherm draait naar de medepassagier zodra de auto gaat rijden, waardoor de chauffeur het niet meer kan zien.
+   - **Voordeel**: Het scherm blijft bruikbaar voor de medepassagier.
+   - **Nadeel**:Kan nog steeds een beetje zichtbaar zijn als het niet ver genoeg draait.
+
+ <p>
+  <img src="Fotos verslag dashboard design/draaiend scherm.jpg" width="500" 
+     height="auto" />
+
+</p>
+
+3. **Schuivende Interface**:
+   - **Beschrijving**: Het scherm verschuift zijwaarts naar de medepassagier wanneer de auto in beweging is, zodat het buiten het zicht van de chauffeur komt.
+   - **Voordeel**: Wordt dicht bij de medepassagier geplaatst zodat zij/hij het makkelijk kan gebruiken.
+   - **Nadeel**: Mogelijk blijft de chauffeur naar het scherm kijken omdat het in hun gezichtsveld blijft draaien.
+
+ <p>
+  <img src="Fotos verslag dashboard design/schuivend scherm.jpg" width="500" 
+     height="auto" />
+
+</p>
 
 ### <ins> Resultaten </ins>
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
