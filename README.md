@@ -284,12 +284,74 @@ Deze programma’s zijn al goed ontwikkeld en worden daarom niet verder besproke
 
 #### Concept testing
 
+##### <ins>Test 1: simulatie</ins>
+##### Doel:
+Evalueren van de rijervaring met een HUD-navigatiesysteem dat de route op de weg projecteert.
+
+##### Onderzoeksvragen:
+Wat zijn de algemene voor- en nadelen van een HUD-navigatiesysteem volgens de eindgebruiker?
+Hoe vergelijkt dit systeem met huidige navigatiesystemen?
+Welke projectievorm is het meest geschikt?
+##### Verloop:
+**Simulatieritten:** Deelnemers doen twee ritten in een simulatie, elk met een ander on-road navigatiesysteem ze spelen hiervoor een game.
+**Evaluatie:** Na de ritten evalueren de gebruikers het systeem en vergelijken het met hun ervaring met huidige navigatiesystemen. Frustraties worden besproken.
+<p align="center">  
+  <img src="/fotos/Schermafbeelding 2024-01-23 232700.png" alt="Afgelegde route in de simulatie" width="50%" />
+</p>
+
+**Software:** Videospel Watch Dogs 2 van Ubisoft.
+**Navigatiesystemen:** Origineel spel navigatiesysteem (linker afbeelding) en een aangepaste layout (rechter afbeelding) door GeraldoDeRivia.
+**Opstelling:** Deelnemers besturen het spel met een game-controller terwijl de interviewer het gespiegelde beeld op de laptop bekijkt.
+<p align="center">  
+  <img src="/fotos/navigatielayout1.png" width="48%" />
+  <img src="/fotos/navigatielayout2.png" width="48%" />
+</p>
+
+##### <ins>Test 2: Verdwijnend Touchscreen</ins>
+##### Doel:
+Onderzoeken van de positie en het mechanisme van een touchscreen dat verdwijnt tijdens het rijden.
+
+##### Onderzoeksvragen:
+Hoe kan deze oplossing gebruiksvriendelijk en ergonomisch worden vormgegeven?
+Wat is de optimale interface die de balans tussen minimalisme en bruikbaarheid vindt?
+**Verloop:**
+**Opstelling:** Deelnemers zitten in de bestuurders- en passagiersstoel, de interviewer zit op de achterbank.
+**Vergelijking van Prototypes:** Drie prototypes worden vergeleken, en deelnemers bedenken locaties op het dashboard waar het scherm zou passen.
+<p align="center">  
+  <img src="fotos/Schermafbeelding 2024-01-24 234010.png" alt="Testlocatie" width="50%" />
+</p>
+
+**Prototype 1:** Scherm draait open met een scharnier aan de onderkant.
+**Prototype 2:** Scherm wordt zwart.
+**Prototype 3:** Scherm schuift loodrecht omhoog op het dashboard.
+<p align="center">  
+  <img src="/fotos/prototype1.png" width="32%" />
+  <img src="/fotos/prototype2.png" width="32%" />
+  <img src="/fotos/prototype3.png" width="32%" />
+</p>
 
 ### <ins> Resultaten </ins>
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### <ins> Conclusies & implicaties </ins>
-Definieer de belangrijkste designbeslissingen
+#### Test 1: On-Road Navigatiesysteem
+**Plus- en minpunten volgens eindgebruikers:**
+- Plus: Intuïtief en voorkomt vergissingen.
+- Min: Mogelijke afleiding, zichtbaarheid bij lage zon of mistig weer.
+**Vergelijking met huidige navigatiesystemen:**
+- Plus: Duidelijker op complexe plekken, behoudt focus op de weg.
+- Min: Onzekerheid over afleiding en zichtbaarheid bij obstakels.
+**Voorkeursvorm van projectie:** 
+- Dikke lijn: Voorkomt verwarring met wegmarkeringen, duidelijker zichtbaar.
+- Dunne lijn: Minder afleiding, minder opvulling van de weg.
+**Opmerkingen:**
+- Test is moeilijk voor niet-gamers.
+- Simulatie leidt tot sneller breken van verkeersregels.
+#### Test 2: Touchscreen Deployment
+**Gebruiksvriendelijkheid en ergonomie:**
+- Voorkeur: Uitschuifbaar scherm, centraal op het dashboard geplaatst.
+- Opmerkingen: Eén gebruiker stelde het nut van een scherm in vraag door stembediening. Er wordt geen rekening gehouden met de medepassagier bij dit concept want die zou wel nog het touchscreen tijdens het rijden kunnen genbruiken.
 
+
+### <ins> Conclusies & implicaties </ins>
+De testen hebben waardevolle inzichten opgeleverd. Voor het on-roadnavigatiesysteem moeten we verder onderzoeken hoe afleidend het is en de gevoeligheid voor externe omstandigheden. Voor het touchscreen richten we ons op een functionele interface en centrale plaatsing. Testen in het tweede semester zullen de effectiviteit en gebruiksvriendelijkheid verder bepalen. We hebben een goed concept gevonden maar er wordt misschien iets te weinig rekening gehouden met de medepassagier in het voorlopig concept.
 
 
 ## Development
