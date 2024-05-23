@@ -201,6 +201,13 @@ De definitiefase bestaat uit twee delen, ideeëngeneratie en testfase. Tijdens i
 #### Ideeëngeneratie Proces
 We begonnen met divergentie, waarbij we zoveel mogelijk ideeën formuleerden zonder haalbaarheid te overwegen, gebruikmakend van de Lotus Blossom-methode. Dit verdeelde de design challenge in subcategorieën om ideeën rond te genereren.
 
+ <p>
+  <img src="Fotos verslag dashboard design/lotus.jpg" width="500" 
+     height="auto" />
+
+</p>
+
+
 In de exploratiefase evalueerden we elk idee individueel met de COCD-methode en succescriteria, zoals haalbaarheid, innovatie, veiligheid en minimale afleiding.
 
 In de convergentiefase selecteerden we het beste concept, een combinatie van de meest effectieve ideeën. Dit concept werd vervolgens geprototyped en getest.
@@ -296,16 +303,20 @@ Welke projectievorm is het meest geschikt?
 **Simulatieritten:** Deelnemers doen twee ritten in een simulatie, elk met een ander on-road navigatiesysteem ze spelen hiervoor een game.
 **Evaluatie:** Na de ritten evalueren de gebruikers het systeem en vergelijken het met hun ervaring met huidige navigatiesystemen. Frustraties worden besproken.
 <p align="center">  
-  <img src="/fotos/Schermafbeelding 2024-01-23 232700.png" alt="Afgelegde route in de simulatie" width="50%" />
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Schermafbeelding%202024-01-23%20232700.png" width="50%" />
 </p>
+
+> Simulatierit
 
 **Software:** Videospel Watch Dogs 2 van Ubisoft.
 **Navigatiesystemen:** Origineel spel navigatiesysteem (linker afbeelding) en een aangepaste layout (rechter afbeelding) door GeraldoDeRivia.
 **Opstelling:** Deelnemers besturen het spel met een game-controller terwijl de interviewer het gespiegelde beeld op de laptop bekijkt.
 <p align="center">  
-  <img src="/fotos/navigatielayout1.png" width="48%" />
-  <img src="/fotos/navigatielayout2.png" width="48%" />
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/navigatielayout1.png" width="48%" />
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/navigatielayout2.png" width="48%" />
 </p>
+
+> Types HUD navigatie
 
 ##### Voor meer info bekijk zeker het protocol met conclusies: 
 - https://docs.google.com/document/d/1PMmgYxGZEWf4RZo8U4U-P4hAel-Rp9swsiwJmxZCNYs/edit
@@ -322,17 +333,21 @@ Wat is de optimale interface die de balans tussen minimalisme en bruikbaarheid v
 **Opstelling:** Deelnemers zitten in de bestuurders- en passagiersstoel, de interviewer zit op de achterbank.
 **Vergelijking van Prototypes:** Drie prototypes worden vergeleken, en deelnemers bedenken locaties op het dashboard waar het scherm zou passen.
 <p align="center">  
-  <img src="fotos/Schermafbeelding 2024-01-24 234010.png" alt="Testlocatie" width="50%" />
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Schermafbeelding%202024-01-24%20234010.png" width="50%" />
 </p>
+
+> Test omgeving: auto
 
 **Prototype 1:** Scherm draait open met een scharnier aan de onderkant.
 **Prototype 2:** Scherm wordt zwart.
 **Prototype 3:** Scherm schuift loodrecht omhoog op het dashboard.
 <p align="center">  
-  <img src="/fotos/prototype1.png" width="32%" />
-  <img src="/fotos/prototype2.png" width="32%" />
-  <img src="/fotos/prototype3.png" width="32%" />
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/scherm1.jpg" width="32%" />
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/scherm2.jpg" width="32%" />
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/scherm3.jpg" width="32%" />
 </p>
+
+> Verschillende touchscreens
 
 
 ##### Voor meer info bekijk zeker het protocol met conclusies: 
