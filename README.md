@@ -138,6 +138,34 @@ We observeerden een gezin tijdens een autorit waarbij een van ons aanwezig was. 
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+#### Benchmarking
+We onderzochten verschillende auto's, zoals de Mazda RX-7 en Tesla, en ontdekten een trend naar minder knoppen en meer displays. Echter, deze displays kunnen afleidend zijn. Als knoppen worden gebruikt, moeten ze ergonomisch geplaatst zijn, goede feedback geven en makkelijk te lezen zijn. Voor displays is een intuïtieve user interface essentieel.
+
+<p>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(3).png" width="49%"/>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(4).png" width="49%"/>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(5).png" width="49%"/>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(6).png" width="49%"/>
+</p>
+
+#### Bronnenonderzoek
+Belangrijke knoppen moeten tactiele feedback geven, wat touchscreens vaak niet doen (Pogue, 2018). Dashboards moeten duidelijk en actiegericht zijn, vooral voor niet-experts (Kuijlen, 2023). Centrales displays kunnen zeer afleidend zijn, en stemcontrole is het veiligst (Nws, 2021). Toekomstige technologieën zoals translucent screens in ramen zijn veelbelovend (Techno Source, 2017). Stemcontrole en HUD's zorgen voor een veiligere rijervaring door de blik op de weg te houden (Voice Control With Natural Language-Understanding Technology | Innovation |, n.d.; Head-up Display: Technologie Achter De Voorruit | Carglass®, n.d.).
+
+#### Focusgroep
+De passagier naast de chauffeur speelt een cruciale rol in navigatie, muziekbeheer en airco-bediening. Het is belangrijk dat de GPS zichtbaar is voor beide voorpassagiers. Knoppen die functies voor alle passagiers bedienen, moeten centraal geplaatst zijn. Er is een duidelijk samenspel tussen chauffeur en passagier, wat zorgt voor een efficiënte rit.
+
+<p>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/work-travail-banner-470x157.jpg" width="49%"/>
+</p>
+
+#### Interviews
+De belangrijkste eisen van onze doelgroep zijn veiligheid, eenvoud en een minimalistisch design met weinig knoppen. Een veiligheidsknop die automatisch hulpdiensten belt, zelfs in extreme omstandigheden, is een veelgehoorde wens. Deze input hielp ons bij het opstellen van een persona.
+
+<p>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20persona%20(1).jpg" width="49%"/>
+</p>
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
