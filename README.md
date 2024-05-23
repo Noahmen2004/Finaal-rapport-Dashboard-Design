@@ -431,6 +431,61 @@ Door middel van conceptschetsen en brainstorming hebben we drie nieuwe systemen 
 
 </p>
 
+### Tests van concepten
+
+#### Concept test met gebruiker
+
+#### Expert tests
+
+In deze concepttest werden de drie dynamische touchscreen systemen getest op experts. 
+
+##### Onderzoeksvragen
+- Welke posities voor het touchscreen zijn makkelijk voor de gebruiker (inclinatie, hoogte, zijdelingse verschuiving)?
+- Wat zijn de plus- en minpunten van elk systeem?
+- Zijn er effectieve pluspunten op het vlak van veiligheid?
+- Welke van de drie systemen bereikt het best zijn doel
+
+##### Methode
+###### 1. Interviews met chauffeur/expert
+- Directe interactie en feedback van gebruikers.
+
+###### 2. Concept testing in een simulatieomgeving
+- Gebruik van een gesimuleerde rijomgeving om de prototypes te testen onder verschillende omstandigheden (stilstaand en rijdend).
+
+ <p>
+  <img src="Fotos verslag dashboard design/expert test.jpg" width="500" 
+     height="auto" />
+     <img src="expert test (1).jpeg" width="500" 
+     height="auto" />
+     <img src="expert test (2).jpeg" width="500" 
+     height="auto" />
+
+</p>
+
+##### Testprocedure
+###### Kwalificatie en Inleiding
+1. Voorstellen van de geïnterviewde.
+2. Verkrijgen van informed consent.
+3. Uitleg van het doel en de procedure van de test.
+
+###### Simulatie van de Oplossing
+Voor elk prototype (draaiend scherm, afgedekt scherm, verschuivend scherm) werden twee fases getest:
+1. **Stilstaand:**
+   - Uitvoeren van specifieke opdrachten (bijv. nummer opzetten, route plannen).
+2. **Rijdend:**
+   - Uitvoeren van gelijkaardige opdrachten, waarbij het systeem de chauffeur verhindert om het touchscreen te gebruiken.
+Gebruikers gaven direct feedback over de gebruiksvriendelijkheid en moeilijkheden.
+
+###### Evaluatie en Acceptatie
+- Gebruikers beoordeelden elk prototype aan de hand van de tien heuristieken van Nielsen, zoals zichtbaarheid van systeemstatus, foutpreventie en gebruiksvriendelijkheid.
+- Verzamelen van kwalitatieve feedback en suggesties voor verbetering.
+
+ <p>
+  <img src="Nielsen.png" width="500" 
+     height="auto" />
+
+</p>
+
 ### <ins> Resultaten </ins>
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### <ins> Conclusies & implicaties </ins>
