@@ -161,9 +161,13 @@ De passagier naast de chauffeur speelt een cruciale rol in navigatie, muziekbehe
 #### Interviews
 De belangrijkste eisen van onze doelgroep zijn veiligheid, eenvoud en een minimalistisch design met weinig knoppen. Een veiligheidsknop die automatisch hulpdiensten belt, zelfs in extreme omstandigheden, is een veelgehoorde wens. Deze input hielp ons bij het opstellen van een persona.
 
+>”veiligheid primeert eenvoudig om te bedienen simpel design, niet te veel knoppen.”
+Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook werkt in de meest extreme omstandigheden. Het interview heeft ons ook geholpen een persona op te stellen.
+
 <p>
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20persona%20(1).jpg" width="49%"/>
 </p>
+>Persona
 
 ### <ins> Conclusies & implicaties </ins>
 Definieer de belangrijkste designbeslissingen
