@@ -307,6 +307,10 @@ Welke projectievorm is het meest geschikt?
   <img src="/fotos/navigatielayout2.png" width="48%" />
 </p>
 
+##### Voor meer info bekijk zeker het protocol met conclusies: 
+- https://docs.google.com/document/d/1PMmgYxGZEWf4RZo8U4U-P4hAel-Rp9swsiwJmxZCNYs/edit
+- https://docs.google.com/document/d/1d6I-wYsXRDh8YQFhYe3L_uoHV1xlK_Cc3TDa2jnVZsU/edit
+
 ##### <ins>Test 2: Verdwijnend Touchscreen</ins>
 ##### Doel:
 Onderzoeken van de positie en het mechanisme van een touchscreen dat verdwijnt tijdens het rijden.
@@ -330,6 +334,11 @@ Wat is de optimale interface die de balans tussen minimalisme en bruikbaarheid v
   <img src="/fotos/prototype3.png" width="32%" />
 </p>
 
+
+##### Voor meer info bekijk zeker het protocol met conclusies: 
+- https://docs.google.com/document/d/1MqDL3jiYUPphBIpwY-g9yXYyNWgdToH3yzWNHuJCF_U/edit
+- https://docs.google.com/document/d/1Gt-CW7W0OzhVAU7nKJOQswbKEPQ-6oAwHgt3n7N5cuI/edit
+
 ### <ins> Resultaten </ins>
 #### Test 1: On-Road Navigatiesysteem
 **Plus- en minpunten volgens eindgebruikers:**
@@ -348,6 +357,7 @@ Wat is de optimale interface die de balans tussen minimalisme en bruikbaarheid v
 **Gebruiksvriendelijkheid en ergonomie:**
 - Voorkeur: Uitschuifbaar scherm, centraal op het dashboard geplaatst.
 - Opmerkingen: Eén gebruiker stelde het nut van een scherm in vraag door stembediening. Er wordt geen rekening gehouden met de medepassagier bij dit concept want die zou wel nog het touchscreen tijdens het rijden kunnen genbruiken.
+ 
 
 
 ### <ins> Conclusies & implicaties </ins>
