@@ -485,6 +485,7 @@ Gebruikers gaven direct feedback over de gebruiksvriendelijkheid en moeilijkhede
      height="auto" />
 
 </p>
+Voor extra info hierover bekijk protocol develop 2 in bijlage.
 
 ### Geoptimaliseerd ontwerp:
 Uit de resultaten volgt dat het gepolariseerd scherm de beste is met deze kennis zijn we dan beginnen werken aan een finaal prototype wat een grote simulatie van al onze concepten moest omvatten.
@@ -564,10 +565,31 @@ Voor elk prototype (draaiend scherm, afgedekt scherm, verschuivend scherm) werde
      height="auto" />
 
 </p>
+
+Voor extra info hierover bekijk protocol develop 3 in bijlage.
+
 ### <ins> Resultaten </ins>
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+#### Expert tests:
+Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze het eenvoudigst en meest intuïtief is en het meeest betrouwbaar is er is hier het minst kans om een fout te maken. De polarisatie film interface maakt het heel moeilijk voor de chauffeur om toch nog naar het scherm te kijken. De schuivende interface wordt gezien als een beter alternatief dan het draaiende scherm vanwege de verminderde afleiding voor de bestuurder. Er zijn zorgen over de zichtbaarheid en documentatie bij de schuivende interface en suggesties voor foutpreventie bij alle prototypes. 
+
+Er werd als tip gegeven dat er error prevention mag zijn door eventueel een melding te geven als je toch naar het centraal touchscreen probeert te kijken.
+
+### Concept test finaal prototype:
+
+
 ### <ins> Conclusies & implicaties </ins>
-Definieer de belangrijkste designbeslissingen
+
+#### Expert tests:
+##### Designrequirements
+- **Minimalistisch Design:** Houd de interface strak en overzichtelijk om afleiding te minimaliseren.
+- **Error Prevention:** Voorzie meldingen als de bestuurder toch probeert naar het centraal touchscreen te kijken.
+
+##### Ontwerpbeslissingen
+- **Keuze van Interface Type:** De polarisatie-interface wordt aanbevolen vanwege de eenvoud en intuïtiviteit.
+- **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
+- **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
+
 
 ## Kritische reflectie
 Max. 500 woorden
