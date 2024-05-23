@@ -94,14 +94,14 @@ Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is m
 
 ## Discovery
 
-### Doestellingen
+### <ins> Doestellingen </ins>
 De doelstelling in deze “discovery” fase was ons onderdompelen in het thema. Dus zo veel mogelijk info verzamelen zodat we veel kennis hebben over het onderwerp om hieruit oplossingen voor het probleem te zoeken en vinden. Vervolgens was het doel om een duidelijk probleem vast te leggen bij onze doelgroep met betrekking tot car dashboards. Zodat we hieruit exact wisten wat de eisen en wensen waren waarmee wij bij elke stap van het verdere ontwerpproces rekening moesten houden.
 <p>
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/goals-2-e1452027249379.png" width="49%"/>
 
 </p>
 
-### Materiaal & Methoden
+### <ins> Materiaal & Methoden </ins>
 
 #### De gebruikte methoden waren:
 - <span style="color: green"> Benchmarking </span>
@@ -136,8 +136,7 @@ We interviewden mensen uit onze doelgroep om inzicht te krijgen in hun levenssti
 #### Focusgroep
 We observeerden een gezin tijdens een autorit waarbij een van ons aanwezig was. Het gezin werd gevraagd zich te gedragen alsof het een normale rit was. Dit gaf ons de kans om het gedrag van een gezin onderling en hun interactie met de auto te observeren. Verdere details hierover zijn te vinden in de bijlagen.
 
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+### <ins> Resultaten </ins>
 
 #### Benchmarking
 We onderzochten verschillende auto's, zoals de Mazda RX-7 en Tesla, en ontdekten een trend naar minder knoppen en meer displays. Echter, deze displays kunnen afleidend zijn. Als knoppen worden gebruikt, moeten ze ergonomisch geplaatst zijn, goede feedback geven en makkelijk te lezen zijn. Voor displays is een intuïtieve user interface essentieel.
@@ -166,18 +165,18 @@ De belangrijkste eisen van onze doelgroep zijn veiligheid, eenvoud en een minima
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20persona%20(1).jpg" width="49%"/>
 </p>
 
-### Conclusies & implicaties
+### <ins> Conclusies & implicaties </ins>
 Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden
-### Doestellingen
+### <ins> Doestellingen </ins>
 Wat wilde je bereiken?
-### Materiaal & methoden
+### <ins> Materiaal & methoden </ins>
 Hoe onderzocht je dit? Wees volledig.
-### Resultaten
+### <ins> Resultaten </ins>
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
+### <ins> Conclusies & implicaties </ins>
 Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
