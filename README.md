@@ -672,9 +672,9 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 - **Schuin Onzichtbaar:** Scherm dat onzichtbaar kan zijn zonder weg te draaien.
 
 #### Ontwerpbeslissingen
-- **Keuze van Interface Type:** De polarisatie-interface wordt aanbevolen vanwege de eenvoud en intuïtiviteit.
-- **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
-- **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
+- **Keuze van Interface Type:** Een scherm met polarisatie zou best zijn. Deze kan goed bruikbaar zijn voor de passagier
+en tegelijk onzichtbaar zijn voor de chauffeur.
+
 > Voor extra info hierover bekijk verslag develop 1 in bijlage.
 
 #### Expert tests:
@@ -683,8 +683,9 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 - **Error Prevention:** Voorzie meldingen als de bestuurder toch probeert naar het centraal touchscreen te kijken.
 
 #### Ontwerpbeslissingen
-- **Keuze van Interface Type:** Een scherm met polarisatie zou best zijn. Deze kan goed bruikbaar zijn voor de passagier
-en tegelijk onzichtbaar zijn voor de chauffeur.
+- **Keuze van Interface Type:** De polarisatie-interface wordt aanbevolen vanwege de eenvoud en intuïtiviteit.
+- **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
+- **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
 
 > Voor extra info hierover bekijk verslag develop 2 in bijlage.
 
@@ -715,8 +716,16 @@ en tegelijk onzichtbaar zijn voor de chauffeur.
 
 > Voor extra info hierover bekijk verslag develop 3 in bijlage.
 
-## Kritische reflectie//luca
-Max. 500 woorden
+## Kritische reflectie
+Aan het eind van het eerste semester hadden we een duidelijk zicht om voort te gaan met een algemene oplossing.
+De samenwerking is doorheen heel het jaar vlot verlopen en onze visies zijn ideeën zijn pasten goed samen. De test voor 
+develop1 kon beter voorbereid en uitgedacht zijn. De test kon efficiënter verlopen zijn en de resultaten eenduidiger. Ook
+op vlak van prototypes is er ruimte voor verbetering. Een systeem om de prototypes in een auto te monteren en automatisch te besturen
+zorgt, kon voor een realistischere simulatie gezorgd hebben. De experttest is goed uitgevoerd en heeft voor duidelijk resultaten
+gezorgd die corresponderen met de resultaten van de eerste test. De test met het finale prototype is goed voorbereid en 
+bevatte uitgebreide prototypes die de besturing veel verbeterde ten opzichte van het eerste semester. Planning tijdens 
+het tweede semester ging al vlotter. Het plannen van het eindrapport kon beter.
+
 
 ## Bronnen
 About | Granstudio. (n.d.). Granstudio. <br> &emsp; https://www.granstudio.com/about <br>
@@ -734,7 +743,7 @@ https://docs.google.com/document/d/1hT8LfAwm9J1SvEGHzndP_pVxkilZIYjv3LARCh_mzWw/
 Protocol develop 2: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit<br>
 Protocol develop 3: https://docs.google.com/document/d/1sfkKEzGefGyymbCcsQPU5--OPLnl1MAa4-cfkQpwE7U/edit<br>
 <br>
-Verslag develop 1: //luca<br>
+Verslag develop 1: https://github.com/lupoppe/develop1<br>
 Verslag develop 2:https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests <br>
 Verslag develop 3:https://github.com/Noahmen2004/Finaal-rapport-Dashboard-Design/blob/main/README.md <br>
 <br>
