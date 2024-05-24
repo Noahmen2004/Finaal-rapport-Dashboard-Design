@@ -438,6 +438,23 @@ Door middel van conceptschetsen en brainstorming hebben we drie nieuwe systemen 
 
 #### 1. Concept test met gebruiker://luca
 
+In deze concepttest werd nagegaan hoe een scherm beschikbaar kan zijn voor de passagier, maar niet de chauffeur.
+
+##### Onderzoeksvragen
+- Op welke positie is het scherm buiten bereik voor de chauffeur
+- Op welke positie (draaiing en verschuiving) is het scherm zichtbaar voor de chauffeur (in neutrale rijpositie)?
+
+##### Methode
+##### 1. Analyse antropomorfische data
+- Databank met antropomorfische data gebruiken om dieptebereik van chauffeur en passagier te analyseren
+
+##### 2. Test met prototypes
+- Met scherm in auto, meerdere posities aannemen en gebruiksgemak na gaan
+
+
+##### Testprocedure
+
+
 #### 2. Expert tests
 
 In deze concepttest werden de drie dynamische touchscreen systemen getest op experts. 
