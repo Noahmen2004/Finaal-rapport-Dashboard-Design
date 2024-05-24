@@ -445,12 +445,20 @@ In deze concepttest werd nagegaan hoe een scherm beschikbaar kan zijn voor de pa
 - Op welke positie (draaiing en verschuiving) is het scherm zichtbaar voor de chauffeur (in neutrale rijpositie)?
 
 ##### Methode
-##### 1. Analyse antropomorfische data
+###### 1. Analyse antropomorfische data
 - Databank met antropomorfische data gebruiken om dieptebereik van chauffeur en passagier te analyseren
 
-##### 2. Test met prototypes
+###### 2. Test met prototypes 
 - Met scherm in auto, meerdere posities aannemen en gebruiksgemak na gaan
+###### *test passagier*
+- gebruiksgemak van passagier testen van elke posititie van scherm
 
+<p align="center">
+    <img src="Fotos verslag dashboard design/voorbeeld1.png" width="300" height="auto">
+</p>
+
+###### *test chauffeur*
+- zichtbaarheid scherm testen voor chauffeur bij elke positie van scherm
 
 ##### Testprocedure
 
