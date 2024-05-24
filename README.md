@@ -454,13 +454,44 @@ In deze concepttest werd nagegaan hoe een scherm beschikbaar kan zijn voor de pa
 - gebruiksgemak van passagier testen van elke posititie van scherm
 
 <p align="center">
-    <img src="Fotos verslag dashboard design/voorbeeld1.png" width="300" height="auto">
+    <img src="Fotos verslag dashboard design/voorbeeld1.png" width="600" height="auto">
 </p>
 
 ###### *test chauffeur*
 - zichtbaarheid scherm testen voor chauffeur bij elke positie van scherm
 
+<p align="center">
+    <img src="Fotos verslag dashboard design/persoon2_verplaatsing_0_70.png" width="600" height="auto">
+</p>
+
 ##### Testprocedure
+1. Voorstellen van de geïnterviewde.
+2. Verkrijgen van informed consent.
+3. Uitleg van het doel en de procedure van de test.
+
+###### Fase 1: Passagier
+
+*De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.*
+
+In deze fase wordt nagegaan welke positites voor het scherm gebruiksvriendelijk zijn en wanneer het niet meer comfotabel is. 
+
+
+###### Fase 2: Chauffeur
+
+*De testpersoon gaat nu in de bestuurdersstoel zitten en de interviewer in de passagiersstoel.* 
+
+In deze fase wordt gekeken wanneer het scherm (niet) leesbaar is en hoe groot de drempel is om het scherm te lezen.
+Voor elke positie:
+- Chauffeur probeert scherm te lezen vanuit rustpositie.
+- Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?  
+ *De afstand van hoofd tot rustpositie wordt gemeten.*
+- Vanaf welke exacte hoek kan de chauffeur in rustpositie het scherm lezen?
+*De exacte hoek wordt gemeten.*
+
+
+###### Evaluatie en Acceptatie
+In fase 1 is de evaluatie op basis van de gebruikers hun ondervindingen. 
+In fase twee wordt gemeten hoe ver de chauffeur moet bewegen om het scherm te zien.
 
 
 #### 2. Expert tests
