@@ -431,12 +431,12 @@ Door middel van conceptschetsen en brainstorming hebben we drie nieuwe systemen 
 
 </p>
 
-### Antropometrische en ergonomische tests://luca
+### Antropometrische en ergonomische tests
 
 
 ### Tests van concepten:
 
-#### 1. Concept test met gebruiker://luca
+#### 1. Concept test met gebruiker
 
 In deze concepttest werd nagegaan hoe een scherm beschikbaar kan zijn voor de passagier, maar niet de chauffeur.
 
@@ -628,7 +628,11 @@ Voor elk prototype (draaiend scherm, afgedekt scherm, verschuivend scherm) werde
 Voor extra info hierover bekijk protocol develop 3 in bijlage.
 
 ### <ins> Resultaten </ins>
-#### Antropometrische en ergonomische tests://luca
+#### Antropometrische en ergonomische tests
+De concepten waarbij het scherm verschuift of draait zijn niet geschikt om de chauffeur van afleiding af te houden.
+Wanneer het scherm genoeg weggedraaid is om niet zichtbaar te zijn voor de chauffeur, staat het slecht voor de passagier.
+Als het scherm goed staat voor de passagier is het scherm te toegankelijk voor de chauffeur.
+De beste manier om het scherm onzichtbaar te maken voor de chauffeur en bruikbaar voor de passagier is door een polarisatiefilter te gebruiken.
 
 
 > Voor extra info hierover bekijk verslag develop 1 in bijlage.
@@ -662,8 +666,15 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 
 ### <ins> Conclusies & implicaties </ins>
 
-#### Antropometrische en ergonomische tests//luca
+#### Antropometrische en ergonomische tests
+#### Designrequirements
+- **Bruikbaar passagier:** Scherm is naar passagier gericht.
+- **Schuin Onzichtbaar:** Scherm dat onzichtbaar kan zijn zonder weg te draaien.
 
+#### Ontwerpbeslissingen
+- **Keuze van Interface Type:** De polarisatie-interface wordt aanbevolen vanwege de eenvoud en intuïtiviteit.
+- **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
+- **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
 > Voor extra info hierover bekijk verslag develop 1 in bijlage.
 
 #### Expert tests:
@@ -672,9 +683,8 @@ Er werd als tip gegeven dat er error prevention mag zijn door eventueel een meld
 - **Error Prevention:** Voorzie meldingen als de bestuurder toch probeert naar het centraal touchscreen te kijken.
 
 #### Ontwerpbeslissingen
-- **Keuze van Interface Type:** De polarisatie-interface wordt aanbevolen vanwege de eenvoud en intuïtiviteit.
-- **Gebruikersfeedback en Interactie:** De interface moet gebruiksvriendelijk zijn, met mechanismen voor het herkennen en herstellen van fouten.
-- **Documentatie en Help Functie:** Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface.
+- **Keuze van Interface Type:** Een scherm met polarisatie zou best zijn. Deze kan goed bruikbaar zijn voor de passagier
+en tegelijk onzichtbaar zijn voor de chauffeur.
 
 > Voor extra info hierover bekijk verslag develop 2 in bijlage.
 
