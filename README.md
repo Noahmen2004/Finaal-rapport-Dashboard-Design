@@ -18,7 +18,7 @@
 - Hoe kunnen we een auto dashboard veiliger maken, rekening houdend met de behoeften van gezinnen?
 
 #### Hoe hebben we dit onderzocht?
-- Dit designproject is gebaseerd op meerdere interviews, een focusgroep met de doelgroep, bronnenonderzoek en benchmarking (zie bijlage).
+- Dit designproject is gebaseerd op meerdere interviews, een Design ethnography met de doelgroep, bronnenonderzoek en benchmarking (zie bijlage).
 
 #### Wat is onze oplossing?
 Onze oplossing bestaat uit vier hoofdcomponenten:
@@ -84,7 +84,7 @@ Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is m
   
 - <ins>Benchmarking:</ins> Vervolgens analyseerden we verschillende benchmarks, waarbij we de voor- en nadelen van bestaande technologieën in kaart brachten. Dit stelde ons in staat om te bepalen welke technologieën al beschikbaar en essentieel zijn.
  
-- <ins>Interviews en Focusgroep:</ins> We voerden interviews en organiseerden een focusgroep om de leefstijl en behoeften van onze doelgroep te begrijpen. Dit hielp ons inzicht te krijgen in hun eisen en wensen voor het ontwerp van een auto dashboard.
+- <ins>Interviews en Design ethnography:</ins> We voerden interviews en organiseerden een Design ethnography om de leefstijl en behoeften van onze doelgroep te begrijpen. Dit hielp ons inzicht te krijgen in hun eisen en wensen voor het ontwerp van een auto dashboard.
   
 - <ins>Probleemstelling en Wensen:</ins> Op basis van ons vooronderzoek stelden we een duidelijke probleemstelling en aanvullende wensen op. Dit gaf ons een helder beeld van de belangrijkste problemen die ons nieuwe auto dashboard moest oplossen.
   
@@ -106,7 +106,7 @@ De doelstelling in deze “discovery” fase was ons onderdompelen in het thema.
 #### De gebruikte methoden waren:
 - <span style="color: green"> Benchmarking </span>
 - <span style="color: blue"> Interviews met de doelgroep </span>
-- <span style="color: red"> Focusgroep </span>
+- <span style="color: red"> Design ethnography </span>
 - <span style="color: yellow"> Bronnenonderzoek </span>
 
 #### Benchmarking
@@ -133,7 +133,7 @@ We lazen samen ongeveer twintig bronnen en noteerden de essentie ervan in onze M
 #### Interviews
 We interviewden mensen uit onze doelgroep om inzicht te krijgen in hun levensstijl en hun behoeften en wensen op het gebied van producten en autogebruik. Details van deze interviews zijn te vinden in de bijlagen.
 
-#### Focusgroep
+#### Design ethnography
 We observeerden een gezin tijdens een autorit waarbij een van ons aanwezig was. Het gezin werd gevraagd zich te gedragen alsof het een normale rit was. Dit gaf ons de kans om het gedrag van een gezin onderling en hun interactie met de auto te observeren. Verdere details hierover zijn te vinden in de bijlagen.
 
 ### <ins> Resultaten </ins>
@@ -151,7 +151,7 @@ We onderzochten verschillende auto's, zoals de Mazda RX-7 en Tesla, en ontdekten
 #### Bronnenonderzoek
 Belangrijke knoppen moeten tactiele feedback geven, wat touchscreens vaak niet doen (Pogue, 2018). Dashboards moeten duidelijk en actiegericht zijn, vooral voor niet-experts (Kuijlen, 2023). Centrales displays kunnen zeer afleidend zijn, en stemcontrole is het veiligst (Nws, 2021). Toekomstige technologieën zoals translucent screens in ramen zijn veelbelovend (Techno Source, 2017). Stemcontrole en HUD's zorgen voor een veiligere rijervaring door de blik op de weg te houden (Voice Control With Natural Language-Understanding Technology | Innovation |, n.d.; Head-up Display: Technologie Achter De Voorruit | Carglass®, n.d.).
 
-#### Focusgroep
+#### Design ethnography
 De passagier naast de chauffeur speelt een cruciale rol in navigatie, muziekbeheer en airco-bediening. Het is belangrijk dat de GPS zichtbaar is voor beide voorpassagiers. Knoppen die functies voor alle passagiers bedienen, moeten centraal geplaatst zijn. Er is een duidelijk samenspel tussen chauffeur en passagier, wat zorgt voor een efficiënte rit.
 
 <p>
