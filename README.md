@@ -494,7 +494,7 @@ In fase 1 is de evaluatie op basis van de gebruikers hun ondervindingen.
 In fase twee wordt gemeten hoe ver de chauffeur moet bewegen om het scherm te zien.
 
 
-#### 2. Expert tests
+### 2. Expert tests
 
 In deze concepttest werden de drie dynamische touchscreen systemen getest op experts. 
 
