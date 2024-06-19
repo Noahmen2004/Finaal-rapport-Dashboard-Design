@@ -355,17 +355,17 @@ Wat is de optimale interface die de balans tussen minimalisme en bruikbaarheid v
 - https://docs.google.com/document/d/1Gt-CW7W0OzhVAU7nKJOQswbKEPQ-6oAwHgt3n7N5cuI/edit
 
 ### <ins> Resultaten </ins>
-#### Test 1: On-Road Navigatiesysteem
+#### Test 1: On-Road Navigatiesysteem <\br >
 **Plus- en minpunten volgens eindgebruikers:**
 - Plus: Intuïtief en voorkomt vergissingen.
 - Min: Mogelijke afleiding, zichtbaarheid bij lage zon of mistig weer.
-**Vergelijking met huidige navigatiesystemen:**
+**Vergelijking met huidige navigatiesystemen:**<\br >
 - Plus: Duidelijker op complexe plekken, behoudt focus op de weg.
 - Min: Onzekerheid over afleiding en zichtbaarheid bij obstakels.
-**Voorkeursvorm van projectie:** 
+**Voorkeursvorm van projectie:** <\br >
 - Dikke lijn: Voorkomt verwarring met wegmarkeringen, duidelijker zichtbaar.
 - Dunne lijn: Minder afleiding, minder opvulling van de weg.
-**Opmerkingen:**
+**Opmerkingen:**<\br >
 - Test is moeilijk voor niet-gamers.
 - Simulatie leidt tot sneller breken van verkeersregels.
 #### Test 2: Touchscreen Deployment
